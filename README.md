@@ -32,10 +32,9 @@ Download and merge the following datasets:
 - [Dog's Skin Diseases by Youssef Mohamed](https://www.kaggle.com/datasets/youssef/dogs-skin-diseases)  
   Contains: Demodicosis (Mange), Ringworm.
 
-- [Ringworm Dataset by Fahim Sarker](https://www.kaggle.com/datasets/fahimsarker/ringworm-dataset)  
-  Contains: Supplementary Ringworm images.
-
 dataset/train/<disease_name>/
+> **Place all datasets inside the `dataset/` folder**
+
 
 
 ---
@@ -114,4 +113,5 @@ Made with ❤️ for 🐶 by SoujanyaS257
 
 
 > **Place all datasets inside the `dataset/` folder**, keeping the structure:
+
 

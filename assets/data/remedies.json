@@ -1,0 +1,60 @@
+{
+  "ringworm": {
+    "title": "Home Care for Ringworm",
+    "remedies": [
+      "**Apple Cider Vinegar:** Apply a 50/50 solution of ACV and water to the affected area with a cotton ball a few times a day.",
+      "**Antifungal Shampoo:** Bathe your dog with a medicated antifungal shampoo available from pet stores.",
+      "**Keep the Area Clean and Dry:** Moisture helps the fungus thrive. Ensure the affected skin is kept dry."
+    ],
+    "disclaimer": "⚠️ **Disclaimer:** These are supportive home remedies. Ringworm is contagious to humans and other pets. Always consult a veterinarian for a proper diagnosis and treatment plan."
+  },
+  "dermatitis": {
+    "title": "Home Care for Dermatitis",
+    "remedies": [
+      "**Oatmeal Baths:** Soothe itchy skin with a colloidal oatmeal bath. Grind plain oatmeal into a fine powder and add it to warm water.",
+      "**Coconut Oil:** Applying a small amount of virgin coconut oil can moisturize dry, irritated skin.",
+      "**Identify and Remove Allergens:** Dermatitis is often caused by allergens. Try to identify and eliminate potential triggers from your dog's environment or diet."
+    ],
+    "disclaimer": "⚠️ **Disclaimer:** If the skin is broken, oozing, or does not improve, please see a veterinarian immediately to prevent secondary infections."
+  },
+  "fungal_infections": {
+    "title": "Home Care for Fungal Infections",
+    "remedies": [
+      "**Medicated Shampoos:** Use shampoos containing ingredients like ketoconazole or miconazole as recommended by a vet.",
+      "**Keep Skin Dry:** Fungi thrive in moist environments. Make sure to thoroughly dry your dog after baths, especially between skin folds."
+    ],
+    "disclaimer": "⚠️ **Disclaimer:** Fungal infections can be persistent. A veterinarian's diagnosis is crucial to ensure you are using the correct treatment."
+  },
+  "demodicosis": {
+    "title": "Home Care for Demodicosis (Mange)",
+    "remedies": [
+      "**Boost the Immune System:** Demodicosis is often linked to a weak immune system. Ensure your dog has a high-quality diet and low stress.",
+      "**Medicated Baths:** A veterinarian may prescribe special shampoos or dips to help kill the mites.",
+      "**Do Not Use Home Remedies without Vet Approval:** Treating mange requires specific medication. Unapproved treatments can worsen the condition."
+    ],
+    "disclaimer": "⚠️ **Disclaimer:** Demodectic mange requires a veterinary diagnosis and prescription treatment. Do not attempt to treat it at home without professional guidance."
+  },
+  "hypersensitivity": {
+    "title": "Home Care for Hypersensitivity (Allergies)",
+    "remedies": [
+      "**Avoid the Allergen:** The most effective treatment is to identify and remove the source of the allergic reaction (e.g., certain foods, pollen, dust mites).",
+      "**Soothing Baths:** Use a hypoallergenic or oatmeal-based shampoo to calm irritated skin.",
+      "**Omega-3 Fatty Acids:** Supplements like fish oil can help improve the skin barrier and reduce inflammation."
+    ],
+    "disclaimer": "⚠️ **Disclaimer:** Severe allergic reactions may require medication from a veterinarian. Consult a vet to develop a management plan."
+  },
+  "healthy": {
+    "title": "Maintaining Healthy Skin",
+    "remedies": [
+      "**Regular Grooming:** Brushing regularly removes dead hair and skin cells and distributes natural oils.",
+      "**Balanced Diet:** Ensure your dog is on a high-quality diet rich in omega-3 and omega-6 fatty acids.",
+      "**Flea and Tick Prevention:** Use regular preventative treatments to avoid skin irritation from parasites."
+    ],
+    "disclaimer": "This advice is for general wellness. If you notice any changes in your dog's skin, consult a vet."
+  },
+  "default": {
+      "title": "General Skin Care Advice",
+      "remedies": ["No specific remedies found for this condition. Please consult the chat assistant or a veterinarian for advice."],
+      "disclaimer": "⚠️ **Disclaimer:** Always consult a licensed veterinarian for any health concerns."
+  }
+}

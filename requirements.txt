@@ -1,0 +1,12 @@
+streamlit
+streamlit-chat
+tensorflow
+google-generativeai
+pandas
+numpy
+Pillow
+folium
+streamlit-folium
+requests
+python-dotenv
+opencv-python-headless

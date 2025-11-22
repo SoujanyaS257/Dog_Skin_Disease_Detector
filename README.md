@@ -18,7 +18,7 @@ An AI-powered web application designed to assist pet owners and veterinarians in
 
 ---
 
-## 🧠 Dataset & Training
+## 🧠 Dataset & Training 
 
 To achieve high accuracy (~92%), this model was trained on a custom-merged dataset combining multiple open-source collections.
 
@@ -106,7 +106,7 @@ python evaluate_model.py
 └── README.md                # Project documentation
 
 ⚠️ Disclaimer
-
 This tool is intended for informational purposes only and does not replace professional veterinary advice. Always consult a vet for a definitive diagnosis and treatment plan.
 
 Made with ❤️ for 🐶 by SoujanyaS257
+

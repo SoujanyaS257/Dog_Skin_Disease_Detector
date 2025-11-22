@@ -80,8 +80,9 @@ Run the Streamlit app:
 'streamlit run app.py'
 
 Browser:
-'http://localhost:8501
-'
+'http://localhost:8501;
+
+
 📂 Project Structure
 
 ├── assets/
@@ -117,3 +118,4 @@ This tool is for informational purposes only and does not replace professional v
 
 
 Made with ❤️ for 🐶 by SoujanyaS257
+

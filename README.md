@@ -84,7 +84,6 @@ Browser:
 
 
 📂 Project Structure
-
 ├── assets/
 │   └── screenshots/         # Demo images and GIF
 ├── dataset/                 # Training data (not included)
@@ -102,15 +101,17 @@ Browser:
 ├── train_new_model.py
 └── README.md
 
-
 🛡️ Tech Stack
 
 Frontend: Streamlit
-Deep Learning: TensorFlow, Keras, EfficientNetV2
-Visualization: Plotly, Matplotlib, Seaborn
-Mapping: Folium, Streamlit-Folium
-Image Processing: PIL (Pillow), OpenCV
 
+Deep Learning: TensorFlow, Keras, EfficientNetV2
+
+Visualization: Plotly, Matplotlib, Seaborn
+
+Mapping: Folium, Streamlit-Folium
+
+Image Processing: PIL (Pillow), OpenCV
 
 ⚠️ Disclaimer
 
@@ -118,4 +119,5 @@ This tool is for informational purposes only and does not replace professional v
 
 
 Made with ❤️ for 🐶 by SoujanyaS257
+
 

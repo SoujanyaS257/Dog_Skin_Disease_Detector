@@ -83,10 +83,11 @@ Browser:
 'http://localhost:8501;
 
 
-📂 Project Structure
-'''
+📂 **Project Structure**
+
+Project/
 ├── assets/
-│ └── screenshots/ # Demo images and GIF
+│ └── screenshots/ # Demo images and GIFs
 ├── dataset/ # Training data (not included)
 ├── model/
 │ ├── efficientnetv2s_finetuned.keras
@@ -101,7 +102,6 @@ Browser:
 ├── requirements.txt
 ├── train_new_model.py
 └── README.md
-'''
 
 🛡️ Tech Stack
 
@@ -121,6 +121,7 @@ This tool is for informational purposes only and does not replace professional v
 
 
 Made with ❤️ for 🐶 by SoujanyaS257
+
 
 
 

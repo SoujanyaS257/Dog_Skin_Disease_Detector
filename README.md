@@ -35,30 +35,30 @@ Download and merge the following datasets:
 dataset/train/<disease_name>/
 > **Place all datasets inside the `dataset/` folder**
 
-
-
 ---
+dataset/train/<disease_name>/
 
 ### ⚙️ Training the Model
 
 The training logic is handled by `train_new_model.py`. It uses **Transfer Learning with EfficientNetV2S**.
 
 Run the training script:
+'python train_new_model.py'
 
-```bash
-python train_new_model.py
+Generates:
 
-This will generate:
 model/efficientnetv2s_finetuned.keras
 model/classes.txt
 
-🛠️ Installation
 
-Clone the repository:
+🛠️ Installation :
+
 git clone https://github.com/SoujanyaS257/Dog_Skin_Disease_Detector.git
 cd Dog_Skin_Disease_Detector
 
-Create a virtual environment (optional but recommended):
+
+Create virtual environment:
+
 # Windows
 python -m venv venv
 venv\Scripts\activate
@@ -67,47 +67,53 @@ venv\Scripts\activate
 python -m venv venv
 source venv/bin/activate
 
-Upgrade pip:
-pip install --upgrade pip
-
 
 Install dependencies:
+
+pip install --upgrade pip
 pip install -r requirements.txt
+
 
 🚀 Usage
 
 Run the Streamlit app:
-streamlit run app.py
+'streamlit run app.py'
 
-
-Open your browser:
-http://localhost:8501
-
-
-Optional: Generate the Confusion Matrix for the model dashboard:
-python evaluate_model.py
-
+Browser:
+'http://localhost:8501
+'
 📂 Project Structure
 
-├── assets/                  # Static images and resources
-├── dataset/                 # Training data (not included, see Dataset section)
+├── assets/
+│   └── screenshots/         # Demo images and GIF
+├── dataset/                 # Training data (not included)
 ├── model/
-│   ├── efficientnetv2s_finetuned.keras  # Generated after training
-│   ├── classes.txt                       # Generated after training
-│   └── model.py                          # Prediction logic
+│   ├── efficientnetv2s_finetuned.keras
+│   ├── classes.txt
+│   └── model.py
 ├── utils/
-│   ├── chatbot_logic.py     # Chatbot responses
-│   ├── maps.py              # Folium map logic
-│   └── remedies.py          # Database of cures/medicines
-├── .gitignore               # Files/folders to exclude from Git
-├── app.py                   # Main Streamlit application
-├── requirements.txt         # Python dependencies
-├── train_new_model.py       # Training script
-└── README.md                # Project documentation
+│   ├── chatbot_logic.py
+│   ├── maps.py
+│   └── remedies.py
+├── .gitignore
+├── app.py
+├── requirements.txt
+├── train_new_model.py
+└── README.md
+
+
+🛡️ Tech Stack
+
+Frontend: Streamlit
+Deep Learning: TensorFlow, Keras, EfficientNetV2
+Visualization: Plotly, Matplotlib, Seaborn
+Mapping: Folium, Streamlit-Folium
+Image Processing: PIL (Pillow), OpenCV
+
 
 ⚠️ Disclaimer
-This tool is intended for informational purposes only and does not replace professional veterinary advice. Always consult a vet for a definitive diagnosis and treatment plan.
+
+This tool is for informational purposes only and does not replace professional veterinary advice. Always consult a vet for diagnosis and treatment.
+
 
 Made with ❤️ for 🐶 by SoujanyaS257
-
-

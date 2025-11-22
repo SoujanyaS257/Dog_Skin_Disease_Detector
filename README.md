@@ -85,23 +85,25 @@ Browser:
 
 📂 **Project Structure**
 
+```
 Project/
 ├── assets/
-│ └── screenshots/ # Demo images and GIFs
-├── dataset/ # Training data (not included)
+│   └── screenshots/        # Demo images and GIFs
+├── dataset/                # Training data (not included)
 ├── model/
-│ ├── efficientnetv2s_finetuned.keras
-│ ├── classes.txt
-│ └── model.py
+│   ├── efficientnetv2s_finetuned.keras
+│   ├── classes.txt
+│   └── model.py
 ├── utils/
-│ ├── chatbot_logic.py
-│ ├── maps.py
-│ └── remedies.py
+│   ├── chatbot_logic.py
+│   ├── maps.py
+│   └── remedies.py
 ├── .gitignore
 ├── app.py
 ├── requirements.txt
 ├── train_new_model.py
 └── README.md
+```
 
 🛡️ Tech Stack
 
@@ -121,6 +123,7 @@ This tool is for informational purposes only and does not replace professional v
 
 
 Made with ❤️ for 🐶 by SoujanyaS257
+
 
 
 

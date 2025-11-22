@@ -84,7 +84,7 @@ Browser:
 
 
 📂 Project Structure
-
+'''
 ├── assets/
 │ └── screenshots/ # Demo images and GIF
 ├── dataset/ # Training data (not included)
@@ -101,7 +101,7 @@ Browser:
 ├── requirements.txt
 ├── train_new_model.py
 └── README.md
-
+'''
 
 🛡️ Tech Stack
 
@@ -121,6 +121,7 @@ This tool is for informational purposes only and does not replace professional v
 
 
 Made with ❤️ for 🐶 by SoujanyaS257
+
 
 
 

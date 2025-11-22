@@ -110,8 +110,3 @@ python evaluate_model.py
 This tool is intended for informational purposes only and does not replace professional veterinary advice. Always consult a vet for a definitive diagnosis and treatment plan.
 
 Made with ❤️ for 🐶 by SoujanyaS257
-
-
-> **Place all datasets inside the `dataset/` folder**, keeping the structure:
-
-
